@@ -2,3 +2,5 @@ phone
 
 touchscreen
 scratches - gorilla glass
+
+seconde version
